@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JB-Gra
 - 👀 I’m interested in Web Development and Graphic Design
-- 🌱 I’m currently learning the foundations of TOP program
+- 🌱 I’m currently learning html, css & javascript
 - 💞️ I’m looking to collaborate on ... (actually I'm not ready yet)
 - 📫 How to reach me: I'm on Twitter as @jazygurabu
 
