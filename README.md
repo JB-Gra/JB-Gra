@@ -1,28 +1,30 @@
 ![Animated banner](animated-banner.gif)
 
-# Nice to meet you!
+## Currently working on
 
-And welcome to my little space on GitHub!
+✨ [MD-Links](https://github.com/JB-Gra/DEV008-md-links)
 
 ## About me
 
-👋🏼 Hello! My name is Jazmin Grajales, I'm a front-end web developer from the beautiful port town of Veracruz in Mexico.
+Hello!👋🏼 My name is Jazmin Grajales, I'm a front-end web developer from the beautiful port town of Veracruz in Mexico. 
 
-## Skills
+My other skills include graphic design and illustration. And, in my freetime, I like to read manga and watch anime.
 
-👩🏼‍💻 Currently, I'm honing my HTML, CSS & JavaScript skills
+## Tech stack
 
-🔮 In the near future, I'm going to add React and Python to my skills repertoire
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs)](https://skillicons.dev)
 
-🎨 Other skills I have is illustration making and graphic design
+## Design stack
 
-## Let's keep in touch!
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,blender,xd)](https://skillicons.dev)
 
-My e-mail:
-✉️ jazygurabu@gmail.com
+## My activity
 
-My LinkedIn:
-🌐 [Jazmin Grajales](https://www.linkedin.com/in/jazmin-grajales-103964282/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JB-Gra&theme=radical)](https://git.io/streak-stats)
+
+## My Social Media:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jazmin-grajales-103964282/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jazygurabu)
 
 <!---
 JB-Gra/JB-Gra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
