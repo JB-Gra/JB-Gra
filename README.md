@@ -2,7 +2,7 @@
 
 ## Currently working on
 
-### ✨ [MD-Links](https://github.com/JB-Gra/DEV008-md-links)
+### ✨ [Conversor de monedas](https://github.com/JB-Gra/conversormoneda)
 
 ## About me
 
