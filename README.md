@@ -2,7 +2,7 @@
 
 ## Currently working on
 
-### ✨ [Conversor de monedas](https://github.com/JB-Gra/conversormoneda)
+### ✨ [Literalura](https://github.com/JB-Gra/literalura)
 
 ## About me
 
@@ -12,7 +12,7 @@ My other skills include graphic design and illustration. And, in my freetime, I 
 
 ## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,java,spring,maven,postgres,idea)](https://skillicons.dev)
 
 ## Design stack
 
