@@ -2,7 +2,7 @@
 
 ## Currently working on
 
-### ✨ [Literalura](https://github.com/JB-Gra/literalura)
+### 🦗
 
 ## About me
 
